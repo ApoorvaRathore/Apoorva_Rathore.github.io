@@ -1,4 +1,3 @@
-# Apoorva_Rathore.github.io
 <!doctype html>
 <html lang="en">
   <head>
