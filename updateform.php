@@ -55,6 +55,6 @@ $con=mysqli_connect('localhost','root');
       </form>
 <p>
 Do you want to insert more data  ???
-    <a href="insertform.php">Click Here...</a> </p>
+    <a href="insertform.php">Click Here to insert more data...</a> </p>
 </body>
 </html>          
